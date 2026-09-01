@@ -1,4 +1,4 @@
-var countDownDate = new Date("Nov 4, 2027 00:00:00").getTime();
+var countDownDate = new Date("Oct 23, 2027 00:00:00").getTime();
 
 //update this to js temporal 
 var x = setInterval(function() {
