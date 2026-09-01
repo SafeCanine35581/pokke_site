@@ -1,5 +1,6 @@
-var countDownDate = new Date("Nov 6, 2027 00:00:00").getTime();
+var countDownDate = new Date("Nov 4, 2027 00:00:00").getTime();
 
+//update this to js temporal 
 var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate - now;
